@@ -1,2 +1,17 @@
-# sana-core
-Self-Adaptive Neural Algorithm (SANA): a stress-driven meta-learning system that dynamically adjusts learning rate, noise, and model behavior for robust AI training.
+# SANA-Core
+
+Self-Adaptive Neural Algorithm (SANA)
+
+## 🚀 Overview
+SANA is a neural system that:
+- Learns from data
+- Adjusts its own learning behavior
+- Uses controlled stress (noise) to improve robustness
+
+## 🧠 Key Features
+- Meta-learning controller
+- Dynamic learning rate tuning
+- Stress-based exploration
+- Plug-and-play PyTorch implementation
+
+## 📦 Structure
